@@ -1,11 +1,14 @@
 /*css stylesheet*/
-html, body {
+html{}
+body {
 	font: inherit;
 	font-size: 100%;
 	font-family: Helvetica, sans-serif;
 	background-color: #C5D0E6;
 	background:url(http://56.media.tumblr.com/ee6d2d68e1a141d9d62cdfc316842bed/tumblr_o0v1m6uSRi1tf8vylo1_1280.png);
 	background-size: 100% 100%;
+	width: 750px;
+	padding: 0 50px 15px 80px;
 }
 h1 {
 	font-size: 50px;
@@ -49,9 +52,9 @@ h4 {
 	width: auto;
 }
 .work {
-	font-size: 18px;
+	font-size: 20px;
 	font-weight: bold;
-	padding-bottom: 5px;
+	padding-bottom: 0;
 	border-bottom: 1px solid #999;
 }
 .past {
