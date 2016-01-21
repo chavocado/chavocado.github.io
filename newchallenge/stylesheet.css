@@ -57,9 +57,14 @@ h4 {
 	padding-bottom: 0;
 	border-bottom: 1px solid #999;
 }
+.education{
+	border-bottom: 1px solid #999;
+}
+.skills{
+	border-bottom: 1px solid #999;
+}
 .past {
 	font-size: 20px;
-	font-weight: bolder;
 }
 td {
 	width: 500px;
@@ -67,7 +72,4 @@ td {
 }
 .date{
 	float: right;
-}
-.education{
-	text-align: center;
 }
