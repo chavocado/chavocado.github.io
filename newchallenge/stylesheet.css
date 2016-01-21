@@ -17,7 +17,7 @@ h1 {
 	font-family: "Helvetica Neue", Helvetica, sans-serif;
 }
 h2 { 
-	font-size: 24px;
+	font-size: 30px;
 	font-style: cursive;
 	font-weight: 300;
 	text-align: left;
@@ -58,8 +58,8 @@ h4 {
 	border-bottom: 1px solid #999;
 }
 .past {
-	font-size: 26px;
-	font-weight: normal;
+	font-size: 20px;
+	font-weight: bolder;
 }
 td {
 	width: 500px;
@@ -67,4 +67,7 @@ td {
 }
 .date{
 	float: right;
+}
+.education{
+	text-align: center;
 }
